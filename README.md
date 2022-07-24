@@ -1,5 +1,7 @@
 # SSH test app
 
+[![Docker Image CI](https://github.com/Sharkbyteprojects/ssh_test_app/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Sharkbyteprojects/ssh_test_app/actions/workflows/docker-image.yml)
+
 [Docker](https://hub.docker.com/repository/docker/sharkbyteprojectsadmin/ssh_test_app)
 
 Port: `22`
